@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    background-color: white;
+    font-size: 20px;
+    padding: 24px;
+    border-radius: 24px;
+    display: inline-block;
+    margin: 16px;
+    border: brown solid 2px;
+}
+
+.card-img {
+    display: block;
+    width: 250px;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    border: brown solid 2px;
+}
+
+img {
+
+    border-radius: 16px;
+    margin-bottom: 20px;
+    border: brown solid 2px;
+}
+
+a {
+    font-weight: 700;
+    color: brown;
+}
